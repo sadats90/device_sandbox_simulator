@@ -1,4 +1,4 @@
-# Device Sandbox Project
+# Device Sandbox Simulator
 
 ## Requirements
 
